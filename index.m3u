@@ -10,8 +10,6 @@ https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897686
 http://87.255.35.150:18890
 #EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://github.com/mdhimel77/test/blob/main/Colors_Bangla.png" group-title="Entertainment",Colors Bangla (1080p)
 http://87.255.35.150:18236
-#EXTINF:-1 tvg-id="StarPlusTelevizija.mk@SD" tvg-logo="https://i.imgur.com/01yz22a.png" group-title="Music",Star Plus Music (1080p) [Not 24/7]
-https://live.muzickatv.mk/live/StarMusic2.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://i.imgur.com/g3eT2vP.png" group-title="Undefined",Zee TV (1080p)
 http://87.255.35.150:18849
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera (1080p)
