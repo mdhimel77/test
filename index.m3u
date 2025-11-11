@@ -8,5 +8,5 @@ http://87.255.35.150:18238
 https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897686
 #EXTINF:-1 tvg-id="Colors.in@SD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors (1080p)
 http://87.255.35.150:18890
-#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://github.com/9061192a-fd89-420c-b988-c6c22ae07f38" group-title="Entertainment",Colors Bangla (1080p)
+#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://github.com/mdhimel77/test/blob/main/Colors_Bangla.png" group-title="Entertainment",Colors Bangla (1080p)
 http://87.255.35.150:18236
