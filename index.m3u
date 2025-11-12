@@ -10,7 +10,7 @@ http://87.255.35.150:18238
 https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897686
 #EXTINF:-1 tvg-id="Colors.in@SD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Hindi",Colors
 http://87.255.35.150:18890
-#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://github.com/mdhimel77/test/blob/main/EDIT_20251113_012706.jpg" group-title="Indian Bangla",Colors Bangl
+#EXTINF:-1 tvg-id="ColorsBangla.in@SD" tvg-logo="https://www.dropbox.com/scl/fi/4igc3d5i06tgtytecmbvg/EDIT_20251113_012706.jpg?rlkey=ep13htqlnxfs65bhgdwexsxrd&st=fmox7b0z&dl=0" group-title="Indian Bangla",Colors Bangl
 http://87.255.35.150:18236
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://i.imgur.com/g3eT2vP.png" group-title="Undefined",Zee TV
 http://87.255.35.150:18849
