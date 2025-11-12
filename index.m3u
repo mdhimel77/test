@@ -6,7 +6,7 @@ http://103.101.197.10:9981/stream/channelid/598508825?profile=pass
 http://87.255.35.150:18237
 #EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-logo="https://i.imgur.com/zTGTWa8.png" group-title="Indian Bangla",Zee Bangla
 http://87.255.35.150:18238
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD" tvg-logo="https://i.imgur.com/AkdfpVr.png" group-title="hindi",Sony Entertainment Television
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD" tvg-logo="https://i.imgur.com/AkdfpVr.png" group-title="Hindi",Sony Entertainment Television
 https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897686
 #EXTINF:-1 tvg-id="Colors.in@SD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Hindi",Colors
 http://87.255.35.150:18890
@@ -14,7 +14,7 @@ http://87.255.35.150:18890
 http://87.255.35.150:18236
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://i.imgur.com/g3eT2vP.png" group-title="Undefined",Zee TV
 http://87.255.35.150:18849
-#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="news",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="RPlus.in@SD" tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="Undefined",R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
